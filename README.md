@@ -29,11 +29,11 @@
 
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
-  </a>
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" alt="PostgreSQL" />
+</a>
 
   <!-- Linux -->
-  <a href="https://kernel.org" target="_blank">
+  <a href="[https://kernel.org](https://www.linux.org/)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux" />
   </a>
 </div>
