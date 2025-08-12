@@ -33,7 +33,7 @@
 </a>
 
   <!-- Linux -->
-  <a href="[https://kernel.org](https://www.linux.org/)" target="_blank">
+  <a href="https://www.linux.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50" alt="Linux" />
   </a>
 </div>
