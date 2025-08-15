@@ -1,7 +1,7 @@
 
 # Olá, me chamo Bruno Tescke Martins
 
-* Atualmente estou trabalhando em Secretaria de Saúde Araranguá
+* Atualmente estou trabalhando em Secretaria Municipal de Saúde Araranguá
   
 * Curso Engenharia de Software na UniSatc
   
