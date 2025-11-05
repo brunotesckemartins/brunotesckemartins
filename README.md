@@ -16,6 +16,18 @@
   <a href="https://git-scm.com" target="_blank">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" alt="Git" />
   </a>
+
+  <div align="center">
+  <!-- Ruby -->
+  <a href="https://www.ruby-lang.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" width="50" alt="Ruby" />
+  </a>
+
+  <div align="center">
+  <!-- Ruby on Rails -->
+  <a href="https://rubyonrails.org/" target="_blank">
+    <img src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" width="50" alt="Ruby on Rails" />
+  </a>
   
   <!-- Java -->
   <a href="https://www.oracle.com/java/" target="_blank">
