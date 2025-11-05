@@ -21,7 +21,7 @@
 
   <!-- Ruby on Rails -->
   <a href="https://rubyonrails.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="50" alt="Ruby on Rails" />
+    <img src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" width="50" alt="Ruby on Rails" />
   </a>
 
   <!-- Java -->
