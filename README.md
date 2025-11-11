@@ -2,9 +2,8 @@
 
 * Atualmente estou trabalhando em Secretaria Municipal de Saúde Araranguá  
 * Curso Engenharia de Software na UniSatc  
-* Como me contatar: brunotesckemartins@gmail.com  
-
----
+* Como me contatar: brunotesckemartins@gmail.com
+  
 
 # Linguagens e Ferramentas
 
